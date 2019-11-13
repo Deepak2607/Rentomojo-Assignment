@@ -1,25 +1,27 @@
-Details of Assignment
+**Details of Assignment**
 
-App.js​ - It is a container that contains all components.
+**App.js**​ - It is a container that contains all components.
 
-Components of App.js​ -
+`Components of App.js`​ -
 
-Users.js​ - table of users with columns as name, company & blog posts (10 users in data).
+**Users.js**​ - table of users with columns as name, company & blog posts (10 users in data).
 
-UserPosts.js​ - the list of posts of a particular user (10 posts per user in data).
+**UserPosts.js​** - the list of posts of a particular user (10 posts per user in data).
 
-FullPost.js​ - contains details (title & body) of a particular post.
+**FullPost.js**​ - contains details (title & body) of a particular post.
 
-User.js​ - component of ​Users.js​ (to render each user row individually).
+<br>
 
-Post.js​ - component of ​UserPosts.js​.
+**User.js​** - component of ​`Users.js​` (to render each user row individually).
 
-PostComments.js​ - list of comments on a particular post (5 comments per post in data).
+**Post.js**​ - component of `​UserPosts.js`​.
 
-Comment.js​ - component of ​PostComments.js​, each comment consists of Comment body and Name.
+**PostComments.js​** - list of comments on a particular post (5 comments per post in data).
 
-Delete button​ - it is used to delete a post, response can be viewed in the console (deleting a post redirects to the Posts page,so it may be difficult to see the response of deleting a post in the console before redirecting to the Posts page, we can see that response clearly if we do not redirect to Posts page after deletion).
+**Comment.js​** - component of `​PostComments.js`​, each comment consists of Comment body and Name.
 
-Show/Hide Comments button​ - to show/hide comments of a particular post.
+**Delete button**​ - it is used to delete a post, response can be viewed in the console (deleting a post redirects to the Posts page,so it may be difficult to see the response of deleting a post in the console before redirecting to the Posts page, we can see that response clearly if we do not redirect to Posts page after deletion).
 
-how-to-use.txt​ file is also given in folder.
+**Show/Hide Comments button​** - to show/hide comments of a particular post.
+
+**how-to-use.txt**​ file is also given in folder.
